@@ -81,6 +81,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         //int idade = Integer.parseInt(X);
         System.out.println("teste");
         JOptionPane.showMessageDialog(null, X);
+        
         txtMensagem.setText("");
         txtMensagem.grabFocus();
     }//GEN-LAST:event_btnGravarActionPerformed
